@@ -7,11 +7,11 @@ noctjs uni-app专用请求模块。
 #### request(url, method, options)
 options基本参数
 
-|参数|类型|说明|
-|--	|--	|--	|
-|data|Object|请求数据|
-|config|Object|请求参数，对应`uni.request`参数，参数说明：[https://uniapp.dcloud.io/api/request/request?id=request](https://uniapp.dcloud.io/api/request/request?id=request)|
-|...extend|Object|自定义任意参数|
+|参数			|类型		|说明																																																																													|
+|--				|--			|--																																																																														|
+|data			|Object	|请求数据																																																																											|
+|config		|Object	|请求参数，对应`uni.request`参数，参数说明：[https://uniapp.dcloud.io/api/request/request?id=request](https://uniapp.dcloud.io/api/request/request?id=request)|
+|...extend|Object	|自定义任意参数																																																																								|
 
 ```javascript
 import creq from 'noctjs-uni-creq'

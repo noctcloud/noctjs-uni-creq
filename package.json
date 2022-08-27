@@ -1,0 +1,24 @@
+{
+  "name": "noctjs-uni-creq",
+  "version": "1.0.0",
+  "description": "uniCloud.callFunction and uni.request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noctcloud/noctjs-uni-creq.git"
+  },
+  "keywords": [
+    "noctjs",
+    "serverless",
+    "creq"
+  ],
+  "author": "Sansnn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noctcloud/noctjs-uni-creq/issues"
+  },
+  "homepage": "https://github.com/noctcloud/noctjs-uni-creq#readme"
+}
